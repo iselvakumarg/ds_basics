@@ -3,3 +3,5 @@
 [Classification](https://github.com/GSelvakumar/ml/blob/main/Tensorflow/Core%20Algorithms/Core_Algorithm_Classification.ipynb) is used to separate data points in classes of different labels. There are many models for classification here, DNNClassifier (Deep neural network) is used.
 
 [Clustering](https://github.com/GSelvakumar/ml/blob/main/Tensorflow/Core%20Algorithms/Core_Algorithm_Clustering.ipynb) is used to cluster data. This technique involves the grouping of data points.
+
+[Hidden Markov Models](https://github.com/GSelvakumar/ml/blob/main/Tensorflow/Core%20Algorithms/Core_Algorithm_Hidden_Markov_Model.ipynb) is used to predict the future using the past data. One of the most common example is Weather prediction
