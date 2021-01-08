@@ -1,1 +1,1 @@
-
+[Linear Regression](https://github.com/GSelvakumar/ml/blob/main/Tensorflow/Core%20Algorithms/Core_Algorithms_linear_regression.ipynb) is one of the basic forms of machine learning and is used to predict numeric values.
