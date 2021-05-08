@@ -7,4 +7,4 @@
 * Matplotlib
 * seaborn
 
-_ This model is used to predict the vaccine production in the world so far by many medical pharmacies. _
+_This model is used to predict the vaccine production in the world so far by many medical pharmacies._
