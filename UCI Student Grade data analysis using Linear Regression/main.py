@@ -17,6 +17,7 @@ y = np.array(data[predict])
 x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(X, y, test_size=0.1)
 
 ## Uncomment and run for new score
+## using pickle for stabilizing the best outcome from the model
 
 # best = 0
 # for _ in range(30):
